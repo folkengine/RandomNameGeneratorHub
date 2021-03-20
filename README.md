@@ -5,7 +5,7 @@ Hub for my Random Name Generator libraries written in various languages.
 This started as me wanting to wrap with Gradle a Java class library that
 I thought was cool. Later on, I started using it as a kind of personal
 kata when I started working on a programming language for the first
-tiem. 
+tiem.
 
 ## Repositories
 
@@ -56,7 +56,10 @@ what I can tell.
 
 Some of these I want to do as a way to get a feel for the nuances of
 working between languages in the same femily, such as
-JavaScript/TypeScript, Erlang/Elixir, and C#/F#.
+JavaScript/TypeScript, Erlang/Elixir, and C#/F#. Of all the languages on
+the list Erlang/Elixir are on the top. For some reason, I have a
+potentially unhealty fascination with the relationship between something
+written in Erlang and in Elixir.
 
 * JavaScript
 * TypeScript
