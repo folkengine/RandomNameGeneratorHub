@@ -28,7 +28,7 @@ language.
   [java-random-name-generator](https://github.com/folkengine/java-random-name-generator)
 
 For this version, I just wanted to take Sinipull's code on
-[codecall,net](http://forum.codecall.net/topic/49665-java-random-name-generator/)
+[codecall.net](http://forum.codecall.net/topic/49665-java-random-name-generator/)
 and add Gradle to is so that it could be easily included in other project.
 
 It would be fun to completely refactor this code, adding test coverage,
@@ -55,7 +55,7 @@ what I can tell.
 ## TODO
 
 Some of these I want to do as a way to get a feel for the nuances of
-working between languages in the same femily, such as
+working between languages in the same family, such as
 JavaScript/TypeScript, Erlang/Elixir, and C#/F#. Of all the languages on
 the list Erlang/Elixir are on the top. For some reason, I have a
 potentially unhealty fascination with the relationship between something
