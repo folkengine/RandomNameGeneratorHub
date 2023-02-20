@@ -3,9 +3,9 @@
 Hub for Random Name Generator libraries written in various languages.
 
 This started as me wanting to wrap with Gradle a Java class library that
-I found of a public forum that I thought was cool. Later on, I started
-using it as a kind of personal kata when I started working on a programming
-language for the first time.
+I found of a public forum by Joonas Vali aka Sinipull that I thought was cool. 
+Later on, I started using it as a kind of personal kata when I started
+working on a programming language for the first time.
 
 ## Repositories
 
@@ -28,7 +28,7 @@ language.
   [java-random-name-generator](https://github.com/folkengine/java-random-name-generator)
 
 For this version, I just wanted to take Joonas Vali aka Sinipull's code on
-[codecall.net](http://forum.codecall.net/topic/49665-java-random-name-generator/)
+[codecall.net](https://web.archive.org/web/20160620114352/http://forum.codecall.net/topic/49665-java-random-name-generator/)
 and add Gradle to is so that it could be easily included in other project.
 
 It would be fun to completely refactor this code, adding test coverage,
