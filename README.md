@@ -27,7 +27,7 @@ language.
 * Java:
   [java-random-name-generator](https://github.com/folkengine/java-random-name-generator)
 
-For this version, I just wanted to take Sinipull's code on
+For this version, I just wanted to take Joonas Vali aka Sinipull's code on
 [codecall.net](http://forum.codecall.net/topic/49665-java-random-name-generator/)
 and add Gradle to is so that it could be easily included in other project.
 
