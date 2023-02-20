@@ -1,11 +1,11 @@
 # RandomNameGeneratorHub
 
-Hub for my Random Name Generator libraries written in various languages.
+Hub for Random Name Generator libraries written in various languages.
 
 This started as me wanting to wrap with Gradle a Java class library that
-I thought was cool. Later on, I started using it as a kind of personal
-kata when I started working on a programming language for the first
-tiem.
+I found of a public forum that I thought was cool. Later on, I started
+using it as a kind of personal kata when I started working on a programming
+language for the first time.
 
 ## Repositories
 
