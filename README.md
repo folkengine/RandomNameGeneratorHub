@@ -36,10 +36,6 @@ etc.
 
 * Go: [goname](https://github.com/folkengine/goname)
 
-### UPDATE
-
-Started on an updated @ [https://github.com/folkengine/rngo](github.com/folkengine/rngo).
-
 (**needs refactoring**)
 
 TBH, I don't trust this randomization of this version, and makes me
@@ -48,6 +44,10 @@ strategy for every version of the library.
 
 I wrote it before go modules came along, so it's in desperate need of an
 overhaul.
+
+### UPDATE
+
+Started on an updated @ [https://github.com/folkengine/rngo](github.com/folkengine/rngo).
 
 ## Extended Testing Strategies
 
