@@ -74,6 +74,7 @@ written in Erlang and in Elixir.
 * Scala
 * Clojure
 * Java 15
+* Python
 
 ### Tolkien Mode
 
